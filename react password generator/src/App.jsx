@@ -98,7 +98,7 @@ export const App = () => {
         </div>
        </div>
         <div className='justify-center text-center text-white'>  
-        <h1 className='mt-[38rem] font-semibold text-2xl p-5 '>Developed by <a href='https://github.com/abdulhaseebss' target='null' className=' text-gray-400 font-light'>@Muhammad Owais</a></h1>
+        <h1 className='mt-[38rem] font-semibold text-2xl p-5 '>Developed by <a href='https://github.com/owaisrazads' target='null' className=' text-gray-400 font-light'>@Muhammad Owais</a></h1>
         </div>
         </div>
         </div>
