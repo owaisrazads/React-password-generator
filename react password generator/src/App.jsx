@@ -66,7 +66,7 @@ export const App = () => {
       <>
   
 
-      <div className='flex items-center w-[100%] h-[65rem] relative flex-wrap bg-slate-800 bg-fixed'>
+      <div className='flex items-center w-[100%] h-[60rem] relative flex-wrap bg-slate-800 bg-fixed'>
       <div className='w-[100%]'>
       
         <h1 className=' text-2xl font-semibold text-center p-2.5 items-center text-white bg-blue-800'>Password Generator</h1><br />
@@ -98,7 +98,7 @@ export const App = () => {
         </div>
        </div>
         <div className='justify-center text-center text-white'>  
-        <h1 className='mt-[38rem] font-semibold text-2xl p-5 '>Developed by <a href='https://github.com/owaisrazads' target='null' className=' text-gray-400 font-light'>@Muhammad Owais</a></h1>
+        <h1 className='mt-[35rem] font-semibold text-2xl p-5 '>Developed by <a href='https://github.com/owaisrazads' target='null' className=' text-gray-400 font-light'>@Muhammad Owais</a></h1>
         </div>
         </div>
         </div>
