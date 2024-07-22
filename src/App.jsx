@@ -66,7 +66,7 @@ export const App = () => {
       <>
   
 
-      <div className='flex items-center w-[100%] h-[60rem] relative flex-wrap bg-slate-800 bg-fixed'>
+      <div className='flex items-center   h-screen  flex-wrap bg-slate-800 '>
       <div className='w-[100%]'>
       
         <h1 className=' text-2xl font-semibold text-center p-2.5 items-center text-white bg-blue-800'>Password Generator</h1><br />
